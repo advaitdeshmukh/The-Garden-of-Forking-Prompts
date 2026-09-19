@@ -19,8 +19,6 @@ Datasets and code for studying how people iteratively edit their story prompts w
 
 *The Garden of Forking Prompts: How Users Explore Narrative Space in Story Generation.* Advait Deshmukh, Nora Benedict, Melanie Walsh, and Maria Antoniak. Conference on Language Modeling (COLM), 2026. [OpenReview](https://openreview.net/forum?id=w6VGVCw4FF)
 
-The release itself lives at <https://github.com/advaitdeshmukh/The-Garden-of-Forking-Prompts>.
-
 ## Quick Start
 
 The analysis notebook runs offline from the tables in `data/`. It needs no WildChat access and no rehydration.
